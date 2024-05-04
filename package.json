@@ -1,0 +1,19 @@
+{
+  "name": "examen",
+  "version": "1.0.0",
+  "main": "App.js",
+  "scripts": {
+    "start": "node src/App.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.3.3",
+    "mongose": "^0.0.2-security",
+    "nodemon": "^3.1.0"
+    
+  }
+}
